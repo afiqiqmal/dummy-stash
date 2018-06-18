@@ -1,0 +1,21 @@
+product : 2018 Harley-Davidson Street Glide Special
+
+Location : Kajang
+
+Price : RM 195 000.00
+
+Model : Street Glide Special
+
+Manufacturing Year : 2018
+
+Registered year : Unregistered
+
+Condition : New
+
+Color : Red
+
+Engine Capacity : 1750
+
+Mileage : 0
+
+Contact : 0135647852

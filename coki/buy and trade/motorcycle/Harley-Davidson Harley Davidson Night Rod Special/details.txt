@@ -1,0 +1,21 @@
+product : 2011 Harley-Davidson V-Rod
+
+Location : Kajang
+
+Price : RM 75 000.00
+
+Model : V-Rod
+
+Manufacturing Year : 2011
+
+Registered year : Unregistered
+
+Condition : Recon
+
+Color : Orange
+
+Engine Capacity : 1250
+
+Mileage : 17000
+
+Contact : 0142145632

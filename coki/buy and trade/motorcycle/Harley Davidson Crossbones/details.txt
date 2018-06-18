@@ -1,0 +1,21 @@
+product : 2009 Harley-Davidson Softail Crossbones
+
+Location : Cheras
+
+Price : RM 102 000.00
+
+Model : Crossbone
+
+Manufacturing Year : 2009
+
+Registered year : 2011
+
+Condition : Used
+
+Color : black
+
+Engine Capacity : 1584
+
+Mileage : 21500
+
+Contact : 0162314721

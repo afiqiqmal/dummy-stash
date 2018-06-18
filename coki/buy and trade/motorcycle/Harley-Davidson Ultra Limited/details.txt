@@ -1,0 +1,21 @@
+product : 2018 Harley-Davidson Ultra Limited
+
+Location : Klang
+
+Price : RM 110 000.00
+
+Model : Ultra Limited
+
+Manufacturing Year : 2016
+
+Registered year : Unregistered
+
+Condition : Recon
+
+Color : Black
+
+Engine Capacity : 1690
+
+Mileage : 523
+
+Contact : 0194256782

@@ -1,0 +1,21 @@
+product : 2018 Harley-Davidson Sportster 48
+
+Location : Rawang
+
+Price : RM 70 000.00
+
+Model : Sportster 48
+
+Manufacturing Year : 2015
+
+Registered year : Unregistered
+
+Condition : Recon
+
+Color : Orange
+
+Engine Capacity : 1200
+
+Mileage : 998
+
+Contact : 0135647852
